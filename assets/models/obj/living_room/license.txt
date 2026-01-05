@@ -1,0 +1,8 @@
+Model Information:
+* title:	Living room+kitchen+bedroom
+* source:	https://sketchfab.com/3d-models/living-roomkitchenbedroom-1f9a624a807f457488b9ae8e101d76d0
+* author:	Katydid (https://sketchfab.com/Katydid.)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
