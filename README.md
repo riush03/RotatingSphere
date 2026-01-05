@@ -1,6 +1,4 @@
-Here's a comprehensive README.md file for your OpenGL Sphere Game:
 
-```markdown
 # 3D OpenGL Sphere Game with ImGui Controls
 
 ![OpenGL Sphere Demo](https://img.shields.io/badge/OpenGL-3.3+-blue.svg)
@@ -450,5 +448,3 @@ Makefile
 # vcpkg
 vcpkg_installed/
 ```
-
-This README provides complete, step-by-step instructions for users to set up and build your OpenGL Sphere Game using vcpkg and CMake.
