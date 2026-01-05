@@ -6,6 +6,10 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 
 A real-time 3D graphics application featuring a rotating sphere with interactive controls using ImGui. Built with modern OpenGL, GLFW, GLEW, and SDL3.
+## 🎮 Screenshots
+
+![Application Screenshot](https://github.com/riush03/RotatingSphere/blob/main/screenshots/Screenshot_3.png)
+*Main application window with ImGui controls*
 
 ## ✨ Features
 
