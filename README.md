@@ -77,12 +77,11 @@ cd C:\vcpkg
 
 ```powershell
 # Clone the repository
-git clone https://github.com/yourusername/opengl-sphere-game.git
-cd opengl-sphere-game
+git clone https://github.com/riush03/RotatingSphere.git
+cd RotatingSphere
 
-# Create build directory
-mkdir build
-cd build
+# Run
+build.bat
 
 # Configure with CMake (point to vcpkg toolchain)
 cmake .. -DCMAKE_TOOLCHAIN_FILE=C:/vcpkg/scripts/buildsystems/vcpkg.cmake
